@@ -88,7 +88,7 @@ export default {
 
       onReset () {
         name.value = null
-        surname.value = null
+        
         age.value = null
         accept.value = false
       }
